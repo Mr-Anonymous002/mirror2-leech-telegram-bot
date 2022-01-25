@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# (c) YashDK [yash-dk@github]
+# (c) Mr Anonymous o02
 
 from anytree import NodeMixin, RenderTree
 
