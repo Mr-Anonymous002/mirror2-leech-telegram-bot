@@ -1,6 +1,6 @@
 #! /bin/bash
 
-# Made with ❤ by @SpeedIndeed - Telegram
+# Made with ❤ by @GraphicCommunity4 - Telegram
 
 printf "This is an interactive script that will help you in deploying almost any mirrorbot. What do you want to do?
 1) Deploying first time
