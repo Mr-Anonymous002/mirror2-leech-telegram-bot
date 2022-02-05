@@ -1,4 +1,4 @@
-# Implement By - @VarnaX-279
+# Implement By - @GraphicCommunity4
 
 import string
 import random
@@ -57,4 +57,4 @@ class TelegraphHelper:
 			return self.edit_page(path, title, content)
 
 
-telegraph=TelegraphHelper('Mirror-Leech-Telegram-Bot', 'https://github.com/anasty17/mirror-leech-telegram-bot')
+telegraph=TelegraphHelper('Graphic Community⁴', 'https://t.me/GraphicCommunity4')
