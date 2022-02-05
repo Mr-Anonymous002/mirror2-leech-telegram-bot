@@ -8,7 +8,7 @@ from bot.helper.telegram_helper.message_utils import sendMessage, editMessage
 
 
 def speedtest(update, context):
-    speed = sendMessage("Running Speed Test . . . ", context.bot, update)
+    speed = sendMessage("Hey boss(MRN), Running Speed Test . . . ", context.bot, update)
     test = Speedtest()
     test.get_best_server()
     test.download()
